@@ -18,7 +18,7 @@ public class JZ23 {
                 //cnt++;
                 if (p1 == p2) {
                     break;
-                    //return p1;
+                    //return p1_MyStack1;
                 } else {
                     continue;
                 }
