@@ -2,8 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d90d034-50bb-443c-a5d3-b33a96aad588" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java8/default_methods_for_interfaces/Formula.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java8/default_methods_for_interfaces/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java8/functional_interfaces/Converter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java8/functional_interfaces/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java8/lamda/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java8/lamda_scope/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/P160.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/P160.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mszn/p1_MyStack1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mszn/p1_MyStack1.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,15 +23,58 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode-plugin/cn/[1]两数之和.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="233">
+              <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#910#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode-plugin/cn/[2]两数相加.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="44" column="9" lean-forward="true" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
+              <folding>
+                <element signature="e#0#492#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" selection-start-line="11" selection-end-line="40" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>sort</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -39,13 +92,54 @@
         <option value="$PROJECT_DIR$/src/main/java/mszn/p3.java" />
         <option value="$PROJECT_DIR$/src/main/java/mszn/p4_Pet.java" />
         <option value="$PROJECT_DIR$/src/main/java/mszn/p4_DogCatQueue.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/P160.java" />
+        <option value="$PROJECT_DIR$/src/main/java/slm/RabbitMQListener.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/java8/default_methods_for_interfaces/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java8/lambda/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java8/functional_interfaces/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java8/functional_interfaces/Converter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java8/default_methods_for_interfaces/Formula.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java8/lamda_scope/Main.java" />
+        <option value="$USER_HOME$/AppData/Local/Temp/leetcode-plugin/cn/[1]两数之和.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/Solution.java" />
+        <option value="$USER_HOME$/AppData/Local/Temp/leetcode-plugin/cn/[2]两数相加.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="810" />
-    <option name="width" value="1730" />
-    <option name="height" value="1372" />
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/Desktop/package/apache-maven-3.6.1" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="interview" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="interview" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="2674" />
+    <option name="y" value="4" />
+    <option name="width" value="1681" />
+    <option name="height" value="904" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -53,7 +147,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -79,10 +172,42 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="interview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="java8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="java8" type="462c0819:PsiDirectoryNode" />
+              <item name="default_methods_for_interfaces" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -91,15 +216,16 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556974669243" />
+    <property name="last_opened_file_path" value="$USER_HOME$/workspace/cloudtools-ngcop/cloudtools-soa/pom.xml" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="leetcode.id" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -121,29 +247,99 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="p1_MyStack1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mszn.p1_MyStack1" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8.lamda_scope.Main" />
       <module name="interview" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mszn.*" />
+          <option name="PATTERN" value="java8.lamda_scope.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8.functional_interfaces.Main" />
+      <module name="interview" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8.functional_interfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8.default_methods_for_interfaces.Main" />
+      <module name="interview" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8.default_methods_for_interfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8.lamda.Main" />
+      <module name="interview" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8.lamda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P160" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.P160" />
+      <module name="interview" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RabbitMQListener" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="slm.RabbitMQListener" />
+      <module name="interview" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="slm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -175,7 +371,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.p1_MyStack1" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.RabbitMQListener" />
       </list>
     </recent_temporary>
   </component>
@@ -194,16 +394,34 @@
       <workItem from="1556630109276" duration="608000" />
       <workItem from="1556872783965" duration="1932000" />
       <workItem from="1556961964825" duration="915000" />
+      <workItem from="1557135894771" duration="34000" />
+      <workItem from="1557729807278" duration="83000" />
+      <workItem from="1557909895712" duration="1402000" />
+      <workItem from="1557912090130" duration="69000" />
+      <workItem from="1557969900944" duration="1197000" />
+      <workItem from="1558076158112" duration="21000" />
+      <workItem from="1558663243410" duration="1416000" />
+      <workItem from="1558684570862" duration="249000" />
+      <workItem from="1558684987936" duration="842000" />
+      <workItem from="1558686039920" duration="1074000" />
+      <workItem from="1558690299786" duration="838000" />
+      <workItem from="1558768369719" duration="881000" />
+      <workItem from="1558789797925" duration="1850000" />
+      <workItem from="1559011416726" duration="782000" />
+      <workItem from="1560087630667" duration="1888000" />
+      <workItem from="1560129281103" duration="2229000" />
+      <workItem from="1560146316700" duration="4773000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8861000" />
+    <option name="totallyTimeSpent" value="29724000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1293" height="693" extended-state="7" />
+    <frame x="2674" y="4" width="1681" height="904" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24939272" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1573103" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -215,41 +433,35 @@
       <window_info id="Job Explorer" order="9" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3284553" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3284553" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27885863" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3994812" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="DB Execution Console" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.2857143" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3048048" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3284553" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3284553" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="10" side_tool="true" visible="true" weight="0.32555124" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32732734" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Console" order="13" />
       <window_info anchor="bottom" id="Version Control" order="14" weight="0.3284553" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32980973" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="leetcode" order="9" side_tool="true" visible="true" weight="0.18938926" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/huawei/HW003.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -309,13 +521,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mszn/p1_MyStack1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/mszn/p2_TwoStacksQueue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
@@ -334,6 +539,139 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jzoffer/JZ29.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/slm/RabbitMQListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="31" column="55" lean-forward="true" selection-start-line="31" selection-start-column="55" selection-end-line="31" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mszn/p1_MyStack1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Desktop/package/java-1.8.0-openjdk-1.8.0.201-2.b09.redhat.windows.x86_64/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="1152" column="15" selection-start-line="1152" selection-start-column="15" selection-end-line="1152" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java8/functional_interfaces/Converter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java8/lamda/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java8/functional_interfaces/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java8/default_methods_for_interfaces/Formula.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java8/default_methods_for_interfaces/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java8/lamda_scope/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/P160.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
+          <folding>
+            <element signature="e#83#84#0" expanded="true" />
+            <element signature="e#125#126#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Desktop/package/java-1.8.0-openjdk-1.8.0.201-2.b09.redhat.windows.x86_64/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="406" column="27" selection-start-line="406" selection-start-column="23" selection-end-line="406" selection-end-column="27" />
+          <folding>
+            <element signature="e#6024#6025#0" expanded="true" />
+            <element signature="e#6095#6096#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode-plugin/cn/[1]两数之和.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#910#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="40" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode-plugin/cn/[2]两数相加.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="44" column="9" lean-forward="true" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#492#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
